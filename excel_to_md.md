@@ -1,4 +1,4 @@
-| **Factors**                         | Percentange | Percentange | Factors                         |
+|  ### Factors                        | Percentange | Percentange | Factors                         |
 | ------------------------------- | ----------- | ----------- | ------------------------------- |
 | Raised Systolic BP              | 20.02       | 20.02       | Raised Systolic BP              |
 | High total cholesterol          | 7.31        | 7.31        | High total cholesterol          |
